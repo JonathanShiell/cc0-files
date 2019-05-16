@@ -1,7 +1,7 @@
 # cc0-files
 Various Files released as CC0 that are mirrored as a public service. They have been freely received and therefore are freely given. They are, in the Repository Holder's opinion, predominantly of educational value.
 
-Note that the license is *The Unlicense*, which is equivalent to CC0 allows for full reproduction without limits. It is reproduced below...
+Note that the license is *The Unlicense*, which is equivalent to CC0 and allows for full reproduction without limits. It is reproduced below...
 
 > This is free and unencumbered software released into the public domain.
 >
